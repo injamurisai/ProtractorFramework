@@ -1,0 +1,5 @@
+conf/allure-results/
+conf/screenshots/
+conf/target/screenshots/
+conf/ProtractorTestReport.html
+conf/xmlresults.xml
