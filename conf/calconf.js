@@ -53,6 +53,7 @@ exports.config = {
       console.log(err);
     });
 
+    
     jasmine.getEnv().addReporter({
       specDone: function (result) {
         if (result.status == 'failed') {
